@@ -5,7 +5,7 @@
 # Zone Teleport: #zone poknowledge
 
 # NPC Spawn: #spawn 9631 50 1 1 0 1000 0
-# Customize NPC: #npcname Helper
+# Customize NPC: #npcname Barbarian
 
 sub EVENT_SAY {
     if ($text=~/Hail/i) {
