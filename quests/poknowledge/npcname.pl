@@ -2,8 +2,9 @@
 # Author: [Your Name]
 # YouTube Demo: [Insert Link Here]
 
-# Zone: poknowledge
-# NPC: npcname
+# Zone Teleport: #zone poknowledge
+# NPC Spawn: #spawn 1 50 1 1 0 1000 0
+# Customize NPC: #npcname "Helper"
 
 
 sub EVENT_SAY {
